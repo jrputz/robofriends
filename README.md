@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs all packages from package.json and package-lock.json<br>
+After running this command, all installed packages will be located in node_modules.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
